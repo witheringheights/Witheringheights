@@ -1,34 +1,63 @@
 ‎ <p align="center">
-<img src="https://files.catbox.moe/x5l7ec.png#right" width="990"  align="right">
-<img src="https://files.catbox.moe/64fspa.png#left" width="400" align="left">
-</br>
- <img src="https://files.catbox.moe/xwuvn2.png" height="200" align="center">  <img src="https://files.catbox.moe/qrlwz5.png" height="56"  align="center">  <img src="https://files.catbox.moe/s8aaek.png" height="900"  align="center">
 
-
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=r50omvhsrl8w858a7wx8gqxox&cover_image=false&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=343332&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) <img src="https://files.catbox.moe/wu84yk.gif" height="130" align="right"> 
-
-
-<img src="https://files.catbox.moe/a59qk5.png#right" width="400" align="right"> </br>
-
-<img src="https://files.catbox.moe/axo0t2.PNG#right" width="400" align="right"> </br>
-
-<img src="https://files.catbox.moe/grvuq0.png#right" width="400" align="right"> </br>
+<img src= "https://files.catbox.moe/88jiud.png" width="900" align="left" >
 
 </br>
 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ${\textsf{\color{#a15162} Ash }}$ ${\textsf{\color{#3e393c} / }}$ ${\textsf{\color{#d18576} Kieran }}$  ${\textsf{\color{#dab872} .}}$ ${\textsf{\color{#684e6a} 16}}$ ‎  ‎  ‎  ‎   ${\textsf{\color{#3e393c} ' ' }}$ ‎  ‎   ‎  ‎  ${\textsf{\color{#b84e69} he}}$ ${\textsf{\color{#3e393c} / }}$ ${\textsf{\color{#aa4361} any}}$ ‎  </br>
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎  ‎‎  ‎‎  ‎‎  ‎ ${\textsf{\color{#6d404b} CST }}$  ${\textsf{\color{#3e393c} , }}$ ${\textsf{\color{#d2956b} American }}$ </br>
+<img src= "https://files.catbox.moe/ac6k91.png" width="400"  align="left">
+</br>
 
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎  ‎‎  ‎‎  ‎ ${\textsf{\color{#694d6b} Aromantic }}$ ${\textsf{\color{#73434f} Asexual }}$ ${\textsf{\color{#ad676e} Agender }}$  </br>
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎  ‎‎  ‎‎  ‎‎  ‎  ${\textsf{\color{#b57272} Masc }}$ ${\textsf{\color{#d08476} Terms }}$ </br>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=r50omvhsrl8w858a7wx8gqxox&cover_image=false&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=733766&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+ㅤ<table border="0" align="center" style="margin-bottom 20" style="margin-right 2">
+    <tr align="left"></tr>
+      <th>
+            <img src="https://files.catbox.moe/4box15.png" width="50" height="~" alt="STAGE I">
+        ㅤ<br>
+        $\color{#733766}{\textsf{Ash - Flux ,, He/They/She}}$<br>
+        $\color{#FFFFFF}{\textsf{agender . aroace }}$<br>
+        $\color{#733766}{\textsf{ no gender pref. }}$<br>
+        $\color{#FFFFFF}{\textsf{ 4w5 so/sx 459 }}$<br>
+        $\color{#733766}{\textsf{16 . American . CST }}$<br>
+        ㅤ<br>
+      </th>
+    </table>
+<span style="clear: both" />
+     </br>
+   
+</p> <img src= "https://files.catbox.moe/0kvvpz.png"  width="100" align="left">  <img src="https://files.catbox.moe/xugorb.png" width="110" align="left"> <img src= "https://files.catbox.moe/ry7ogr.png" width="100" align="left"> 
+
+</br>
+<p align="center">
+    
+<img src="https://files.catbox.moe/qkneyo.png" width="350" align="right"> 
+‎</br>
 </br>
 </br>
 
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎  ${\textsf{\color{#dbbf7b} Oomfs }}$ ${\textsf{\color{#3e393c} :) }}$
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎<img src="https://komarev.com/ghpvc/?username=witheringheights&style=flat-square&color=442762&label=loyal-goons" alt="profile view counter" width="100" align="CENTER"> </br>
+</br>
+</br>
+</br>
 
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ [emariyaoi](https://github.com/emariyaoi) , </br>
-  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ [yurislop](https://github.com/yurislop) , </br>
-   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  [infinitelygrey](https://github.com/infinitelygrey) , </br>
+<table border="0" align="left" style="margin-bottom 20" style="margin-right 2">
+    <tr align="left"></tr>
+      <th>
+            <img src="https://files.catbox.moe/p4vpdv.png" width="60" height="~" alt="STAGE I">
+        ㅤ<br>
+        $\color{#733766}{\textsf{shoutout to my parasocial fans: }}$<br>
+        $\color{#FFFFFF}{\textsf{ emariyaoi , raddogs , infinitelygrey  }}$<br>
+        $\color{#FFFFFF}{\textsf{ 100bottlesofglue , orcapaint }}$<br>
+        $\color{#FFFFFF}{\textsf{  }}$<br>
+        $\color{#733766}{\textsf{ + ty for the nominations }}$<br>
+        $\color{#FFFFFF}{\textsf{ title-town , pt-players }}$<br>
+        ㅤ<br>
+      </th>
+    </table>
+<span style="clear: both" />
+     </br>
+</br>
+</br>
 
-   <img src="https://files.catbox.moe/a0q2za.png#right" width="990"  align="right">
+    
+<img src= "https://files.catbox.moe/ga6pxr.png" width="900">
