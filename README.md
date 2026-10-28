@@ -35,7 +35,7 @@
 </br>
 </br>
 
-‎this is where my view counter would go IF IT DIDNT BREAK!
+‎<img src="https://komarev.com/ghpvc/?username=witheringheights&style=flat&color=542175&label=goons" alt="profile view counter" align="up">
 
 </br>
 </br>
